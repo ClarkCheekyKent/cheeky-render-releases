@@ -6,6 +6,7 @@ My setup is Quest 3 via Virtual Desktop on NVidia 5070. This has not been tested
 
 Current release is an early preview that has some optionals features not working (like weather/time control which is still in development).
 
+<img width="3840" height="2160" alt="c7f174cdf65543ed8ffb2f56bcf815c3" src="https://github.com/user-attachments/assets/18ecfc33-6e56-46ff-acd0-c5133a33c565" />
 <img width="751" height="1373" alt="image" src="https://github.com/user-attachments/assets/1a1bd33f-00be-4b76-ad5a-f64cb0239b75" />
 
 ### Features
@@ -28,7 +29,7 @@ Current release is an early preview that has some optionals features not working
 
 ### What settings I run Forza Horizon 6
 
-I care more about stability and clarify so I run mono at 1.3 render resolution GodLike setting in Virtual Desktop 500mbit connection via USB dongle. FOV tangent 85 Vertical 75 Horizontal.
+I care more about stability and clarify so I run mono at 72 FPS 1.3 render resolution GodLike setting in Virtual Desktop 500mbit connection via USB dongle. FOV tangent 85 Vertical 75 Horizontal. I can also do 100 FPS at 1.0 render res which is still 3024x2836.
 
 I found for me Stereo AFR-Half 1.0 render resolution with headset set to 120 FPS works if you want depth. Maybe even make the Foveated DLSS smaller for more perf as the shimmer isnt as noticible in stereo.
 
@@ -37,6 +38,7 @@ I found for me Stereo AFR-Half 1.0 render resolution with headset set to 120 FPS
   * Allows editing the VR settings live
 * HUD Safe Frame Horizontal/Vertical - 3
   * Puts the UI elements in corner of screen so they're not in the way.
+
   * Default HUD settings in VR are based on this number, but you can adjust both
 
 #### VIDEO
@@ -58,7 +60,9 @@ I found for me Stereo AFR-Half 1.0 render resolution with headset set to 120 FPS
 * Shader Quality -> High
 * Other settings Low/medium
   
-
+### Bugs/Issues
+* Flicker can still happen in AFR if dropping below headset FPS rate.
+* If settings set to high and you run out of VRAM it causes issues and you may have to restart game and the VR mod.
 
 ### Disclaimer
 This mod injects hooks into the Forza Horizon 6 instance (similar to how reshade works). 
