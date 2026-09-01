@@ -38,7 +38,6 @@ I found for me Stereo AFR-Half 1.0 render resolution with headset set to 120 FPS
   * Allows editing the VR settings live
 * HUD Safe Frame Horizontal/Vertical - 3
   * Puts the UI elements in corner of screen so they're not in the way.
-
   * Default HUD settings in VR are based on this number, but you can adjust both
 
 #### VIDEO
@@ -70,3 +69,10 @@ This mod injects hooks into the Forza Horizon 6 instance (similar to how reshade
 I have personally been using it for 50+ hours without issue, that said it is probably detectable IF Forza decides to adds anticheat and start banning people for graphical mods. 
 
 This is probably unlikely given they haven't done so far for its other games and care more about cheating like money or gameplay but I do want to put that out there.
+
+### Support
+This mod will always remain free. I may even open source it later when I clean up the code.
+
+However, you are more than welcome to buy me a coffee.
+
+[![Buy this cheeky kent a coffee](https://img.shields.io/badge/Ko--fi-Buy%20this%20cheeky%20kent%20a%20coffee-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/cheekykent)
