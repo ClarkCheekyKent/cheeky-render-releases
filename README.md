@@ -2,7 +2,7 @@
 ## About
 Cheeky Render is a mod that enables VR integration to Forza Horizon 6. It includes many features an optimizations to the point that it runs better than flat screen for me in mono. 
 
-My setup is Quest 3 via Virtual Desktop on NVidia 5070. This has not been tested for other combinations.
+My setup is Quest 3 via Virtual Desktop on NVidia 5070 gamepass version. This has not been tested for other combinations.
 
 Current release is an early preview that has some optionals features not working (like weather/time control which is still in development).
 
