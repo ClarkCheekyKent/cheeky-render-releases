@@ -29,9 +29,11 @@ Current release is an early preview that has some optionals features not working
 
 ### What settings I run Forza Horizon 6
 
-I care more about stability and clarify so I run mono at 72 FPS 1.3 render resolution GodLike setting in Virtual Desktop 500mbit connection via USB dongle. FOV tangent 85 Vertical 75 Horizontal. I can also do 100 FPS at 1.0 render res which is still 3024x2836.
+I care more about stability and clarify so I run mono at 72 FPS 1.3 render resolution (3931x3687) GodLike setting in Virtual Desktop 500mbit connection via USB dongle. FOV tangent 85 Vertical 75 Horizontal. 
 
-I found for me Stereo AFR-Half 1.0 render resolution with headset set to 120 FPS works if you want depth. Maybe even make the Foveated DLSS smaller for more perf as the shimmer isnt as noticible in stereo.
+I can also do 100 FPS at 1.0 render res which is still 3024x2836.
+
+I found for my rig AFR-Half 1.0 render resolution with headset set to 120 FPS works if you want depth. Maybe even make the Foveated DLSS smaller for more perf as the shimmer isnt as noticible in stereo.
 
 #### HUD & GAMEPLAY
 * Pause on Focus Lost - Disabled
