@@ -26,6 +26,22 @@ Current release is an early preview that has some optionals features not working
 * Floating Flat Screen - When not in 6DOF mode (menu, cutscenes, etc) The menu is in a fixed floating location. There are controls for adjusting its size and location as well.
 * Far Chase Cam - Allows VR mode outside cockpit view.
 
+### Setup
+Extract the zip to a folder of your choosing and keep all files together.
+
+On first launch of the mod and after every update it needs to find new hooks for the camera.
+
+You will see instructions like these at the bottom when this is the case and VR mode will not work until you finish this process.
+
+<img width="557" height="320" alt="image" src="https://github.com/user-attachments/assets/2ffe6cf7-a1eb-4285-a45b-8980504d2e3b" />
+
+It will ask you to switch to Driver Camera, then Far Chase Camera, and then Press Pause/Unpause menu 5 times.
+
+After this is done the message will show that it has been updated and ask you to restart.
+
+<img width="552" height="316" alt="image" src="https://github.com/user-attachments/assets/ec6da13d-3982-4d03-a491-77bd7702c777" />
+
+VR mode should now be enabled on next launch and you will see message there that says "generated profile active"
 
 ### What settings I run Forza Horizon 6
 
