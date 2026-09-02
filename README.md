@@ -27,11 +27,11 @@ Current release is an early preview that has some optionals features not working
 * Far Chase Cam - Allows VR mode outside cockpit view.
 
 ### Setup
-Extract the zip to a folder of your choosing and keep all files together.
+1. Extract the zip to a folder of your choosing and keep all files together.
 
-If you're using Steam Version or have non standard install path, update the first textbox with your installation path for FH6.
+2. If you're using Steam Version or have non standard install path, update the first textbox with your installation path for FH6.
 
-On first launch of the mod and after every update it needs to find new hooks for the camera.
+3. On first launch of the mod and after every update it needs to find new hooks for the camera.
 
 You will see instructions like these at the bottom when this is the case and VR mode will not work until you finish this process.
 
@@ -43,7 +43,7 @@ After this is done the message will show that it has been updated and ask you to
 
 <img width="552" height="316" alt="image" src="https://github.com/user-attachments/assets/ec6da13d-3982-4d03-a491-77bd7702c777" />
 
-VR mode should now be enabled on next launch and you will see message there that says "generated profile active"
+4. Restart the game and VR mode should now be enabled on next launch and you will see message there that says "generated profile active"
 
 ### What settings I run Forza Horizon 6
 
