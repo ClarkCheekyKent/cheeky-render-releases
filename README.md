@@ -29,6 +29,8 @@ Current release is an early preview that has some optionals features not working
 ### Setup
 Extract the zip to a folder of your choosing and keep all files together.
 
+If you're using Steam Version or have non standard install path, update the first textbox with your installation path for FH6.
+
 On first launch of the mod and after every update it needs to find new hooks for the camera.
 
 You will see instructions like these at the bottom when this is the case and VR mode will not work until you finish this process.
